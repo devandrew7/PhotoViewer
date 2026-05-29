@@ -21,7 +21,7 @@ A high-performance, beautifully styled Windows desktop application for scanning,
 
 ### 4. Standalone Windows Executable
 - **Standalone Package**: Fully compiled the application inside its virtual environment (`.venv`) into a single-file, non-console executable under the `dist/` folder using PyInstaller:
-  - Executable path: [main.exe](dist/main.exe)
+  - Executable path: [main.exe](build/main.exe)
 
 ---
 
